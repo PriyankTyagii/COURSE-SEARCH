@@ -3,7 +3,8 @@
 A professional-grade Spring Boot application designed to index and search educational course data using Elasticsearch. This backend system enables powerful filtering, pagination, and sorting capabilities through a RESTful API.
 
 ---
-
+<img width="1889" height="860" alt="Screenshot 2025-03-15 200434" src="https://github.com/user-attachments/assets/ff0cba2c-9d0d-4240-84f9-f114c082627f" />
+---
 ## 🚀 Features
 
 - Indexes a set of sample course documents into Elasticsearch at application startup.
