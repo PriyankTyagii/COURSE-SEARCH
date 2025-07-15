@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Math Basics",
+    "description": "Introduction to basic arithmetic",
+    "category": "Math",
+    "type": "COURSE",
+    "gradeRange": "1st–3rd",
+    "minAge": 6,
+    "maxAge": 9,
+    "price": 49.99,
+    "nextSessionDate": "2025-07-15T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Art Exploration",
+    "description": "Learn sketching and colors",
+    "category": "Art",
+    "type": "CLUB",
+    "gradeRange": "2nd–4th",
+    "minAge": 7,
+    "maxAge": 10,
+    "price": 59.99,
+    "nextSessionDate": "2025-07-20T14:00:00Z"
+  }
+]
